@@ -1,1 +1,0 @@
-{"version":3,"file":"Pajaro.d.ts","sourceRoot":"","sources":["../../../src/tp1/ejercicio4/Pajaro.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,eAAe,CAAC;AACvC,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AAEpC,qBAAa,MAAO,SAAQ,MAAO,YAAW,OAAO;IACjD,OAAO,CAAC,OAAO,CAAS;gBAEZ,MAAM,EAAC,MAAM,EAAE,OAAO,EAAC,MAAM;IAKzC,WAAW,IAAI,IAAI;IAInB,KAAK,IAAI,IAAI;CAGhB"}

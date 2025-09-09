@@ -1,1 +1,0 @@
-{"version":3,"file":"Empleado.d.ts","sourceRoot":"","sources":["../../../src/tp1/ejercicio3/Empleado.ts"],"names":[],"mappings":"AAAA,8BAAsB,QAAQ;IACP,MAAM,EAAE,MAAM;IAAS,WAAW,EAAE,MAAM;gBAA1C,MAAM,EAAE,MAAM,EAAS,WAAW,EAAE,MAAM;IAE7D,QAAQ,CAAC,eAAe,IAAI,MAAM;CACrC"}
