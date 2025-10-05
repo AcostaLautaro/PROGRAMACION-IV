@@ -1,5 +1,4 @@
 ```md
-# TEORÍA - Trabajo Práctico 2
 
 ### 1. Ciclo Rojo → Verde → Refactor
 Es la base del TDD. Primero se escribe un test que falla (rojo), luego la minima implementacion para que pase (verde), y finalmente se mejora el codigo manteniendo los tests en verde (refactor). Los pasos pequeños reducen errores y facilitan entender el progreso.
